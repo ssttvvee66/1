@@ -1,0 +1,10 @@
+﻿  manager.cpp
+  orderFile.cpp
+  teacher.cpp
+C:\Microsoft Visual Studio2022Community新建项目\机房预约系统\teacher.cpp(120,30): warning C4018: “<=”: 有符号/无符号不匹配
+  student.cpp
+C:\Microsoft Visual Studio2022Community新建项目\机房预约系统\student.cpp(92,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Microsoft Visual Studio2022Community新建项目\机房预约系统\student.cpp(269,30): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Microsoft Visual Studio2022Community新建项目\机房预约系统\Debug\机房预约系统.exe
